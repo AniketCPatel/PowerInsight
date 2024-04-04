@@ -27,7 +27,7 @@ const Header = () => {
         <Typography
           variant="h6"
           component={Link}
-          to="/"
+          to="/PowerInsight"
           style={{ textDecoration: "none", color: "inherit" }}
         >
           <IconButton size="large">

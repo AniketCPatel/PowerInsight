@@ -10,7 +10,7 @@ function App() {
       <Router>
         <Header />
         <Routes>
-          <Route path="/" exact Component={Dashboard} />
+          <Route path="/PowerInsight" exact Component={Dashboard} />
         </Routes>
       </Router>
     </>
