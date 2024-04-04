@@ -1,0 +1,17 @@
+{
+    "month.label": "Month",
+    "addUsage.button": "Add Usage",
+    "language.english": "English",
+    "language.hindi": "Hindi",
+    "language.gujarati": "Gujarati",
+    "chart.xAxisLabel": "Date",
+    "chart.yAxisLabel": "Usage",
+    "header.title": "Electricity Usage Dashboard",
+    "chart.label": "Electricity Usage",
+    "dialog.title": "Add Usage",
+    "dialog.cancelButton": "Cancel",
+    "dialog.saveButton": "Save",
+    "months.january": "January",
+    "months.february": "February",
+    "months.march": "March"
+}

@@ -1,0 +1,14 @@
+{
+    "month.label": "મહિનો",
+    "months.january": "જાન્યુઆરી",
+    "months.february": "ફેબ્રુઆરી",
+    "months.march": "માર્ચ",
+    "addUsage.button": "વપરાશ ઉમેરો",
+    "chart.xAxisLabel": "તારીખ",
+    "chart.yAxisLabel": "વપરાશ",
+    "header.title": "વીજળી વપરાશ ડેશબોર્ડ",
+    "chart.label": "વીજળી વપરાશ",
+    "dialog.title": "વપરાશ ઉમેરો",
+    "dialog.cancelButton": "રદ કરો",
+    "dialog.saveButton": "સાચવો"
+}

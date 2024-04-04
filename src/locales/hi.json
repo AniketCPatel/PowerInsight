@@ -1,0 +1,14 @@
+{
+    "month.label": "महीना",
+    "months.january": "जनवरी",
+    "months.february": "फ़रवरी",
+    "months.march": "मार्च",
+    "addUsage.button": "उपयोग जोड़ें",
+    "chart.xAxisLabel": "तारीख",
+    "chart.yAxisLabel": "उपयोग",
+    "header.title": "बिजली उपयोग डैशबोर्ड",
+    "chart.label": "बिजली का उपयोग",
+    "dialog.title": "उपयोग जोड़ें",
+    "dialog.cancelButton": "रद्द करें",
+    "dialog.saveButton": "सहेजें"
+}
