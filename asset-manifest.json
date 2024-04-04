@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/PowerInsight/static/js/main.dc32cc94.js",
+    "main.js": "/PowerInsight/static/js/main.cbc80f7d.js",
     "index.html": "/PowerInsight/index.html",
-    "main.dc32cc94.js.map": "/PowerInsight/static/js/main.dc32cc94.js.map"
+    "main.cbc80f7d.js.map": "/PowerInsight/static/js/main.cbc80f7d.js.map"
   },
   "entrypoints": [
-    "static/js/main.dc32cc94.js"
+    "static/js/main.cbc80f7d.js"
   ]
 }
